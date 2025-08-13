@@ -1,0 +1,1 @@
+import{j as e,B as n,T as i}from"./index-7JCrVMyd.js";import{T as c}from"./TextField-DeGHHacn.js";const l=({description:t,value:o,onOwnChange:r,placeholder:s,...a})=>e.jsxs(n,{children:[e.jsx(c,{placeholder:s,sx:{backgroundColor:"background.paper"},value:o,onChange:x=>r(x.target.value),...a}),t&&e.jsx(i,{fontSize:12,mt:1,children:t})]}),d=l;export{d as T};
